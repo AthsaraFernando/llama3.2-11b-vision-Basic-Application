@@ -1,3 +1,5 @@
+#works without the media folder (with image1.ong)
+
 import os
 import json
 import base64
